@@ -11,7 +11,7 @@ const pages = [
   {
     id: 0,
     title: "Hello !!",
-    message: "Hello, this is Souramoy 😊",
+    message: "Hello, this is Me 😊",
     bg: "bg-pink-100",
     text: "text-pink-800",
   },
